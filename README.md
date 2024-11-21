@@ -71,6 +71,13 @@ A curated list of Awesome Damn Vulnerable Applications (ADVA). To contribute, ju
 
 ## Not Include Mitigation/Fix
 
+[LATEST]. Vulnerable Node.js Express.js Web Application and API
+- URL: https://github.com/SirAppSec/vuln-node.js-express.js-app
+- Stacks: Express.js + Node.js API and Frontend
+- Pros: latest, many vuln low hanging and complex one
+
+https://github.com/SirAppSec/vuln-node.js-express.js-app
+
 0. Damn Vulnerable Web Services (Nodejs)
 - URL: https://github.com/snoopysecurity/dvws-node
 - Stacks: Nodejs, Docker
