@@ -3,6 +3,11 @@ A curated list of Awesome Damn Vulnerable Applications (ADVA). To contribute, ju
 
 ## Include Mitigation/Fix
 
+[LATEST]. Vulnerable PHP app
+- URL: https://github.com/just-a-confused-seal/web-application-security
+- Stacks: PHP native, jwt, SQLite
+- Pros & Cons: latest, with strightforward PoC, two branching (vulnerable & patched branch)
+
 0. Juice Shop
 - URL: https://github.com/juice-shop/juice-shop
 - Stacks: Node.js
