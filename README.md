@@ -5,6 +5,7 @@ A curated list of Awesome Damn Vulnerable Applications (ADVA). To contribute, ju
 
 [LATEST]. Vulnerable PHP app
 - URL: https://github.com/just-a-confused-seal/web-application-security
+- Writeup: https://drive.google.com/file/d/1PLnrgH0Pz7LUXp3rG3n5KJiRJYGjp0Ba/view
 - Stacks: PHP native, jwt, SQLite
 - Pros & Cons: latest, with strightforward PoC, two branching (vulnerable & patched branch)
 
