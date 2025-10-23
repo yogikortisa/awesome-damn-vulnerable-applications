@@ -3,6 +3,8 @@ A curated list of Awesome Damn Vulnerable Applications (ADVA). To contribute, ju
 
 ## Hot
 
+(Online): https://www.vulnapp.id/
+
 https://github.com/Commando-X/vuln-bank
 
 Writeup: https://relaaxx.medium.com/vulnerable-bank-vuln-bank-12642970f536
